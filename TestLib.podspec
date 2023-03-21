@@ -10,6 +10,7 @@ Pod::Spec.new do |s|
 s.name             = 'TestLib'
 s.version          = '1.0.0'
 s.summary          = 'Jio Ad.'
+s.license          = 'MIT'
 
 s.description      = <<-DESC
 'Jio Ads'
