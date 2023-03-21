@@ -15,8 +15,8 @@ s.description      = <<-DESC
 'Jio Ads'
 DESC
 
-s.homepage         = 'https://jio.com/'
-s.license          = { :type => 'Private License', :file => 'LICENSE' }
+s.homepage         = 'https://www.jio.com/'
+# s.license          = { :type => 'Private License', :file => 'LICENSE' }
 s.author           = { 'Test User' => 'test@test.com' }
 s.source           = { :http => 'https://github.com/paultnp/TestLib/raw/main/JioAdsFramework.zip'}
 
