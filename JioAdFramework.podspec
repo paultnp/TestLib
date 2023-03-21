@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-s.name             = 'JioAdFramework'
+s.name             = 'TestLib'
 s.version          = '1.0.0'
 s.summary          = 'Jio Ad.'
 
