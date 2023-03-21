@@ -18,7 +18,7 @@ DESC
 s.homepage         = 'https://jio.com/'
 s.license          = { :type => 'Private License', :file => 'LICENSE' }
 s.author           = { 'Test User' => 'test@test.com' }
-s.source           = { :http => 'http://localhost:8080/JioAdsFramework.zip'}
+s.source           = { :http => 'https://github.com/paultnp/TestLib/raw/main/JioAdsFramework.zip'}
 
 s.social_media_url = 'https://sampleurl.com'
 
